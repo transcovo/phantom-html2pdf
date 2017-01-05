@@ -12,10 +12,10 @@
   ],
   "version": "2.0.2",
   "dependencies": {
-    "phantomjs-prebuilt": "latest",
-    "async": "latest",
-    "tmp": "latest",
-    "debug": "latest"
+    "phantomjs-prebuilt": "2.1.14",
+    "async": "2.1.4",
+    "tmp": "0.0.31",
+    "debug": "2.6.0"
   },
   "repository": {
     "type": "git",
