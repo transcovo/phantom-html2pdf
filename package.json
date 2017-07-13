@@ -34,20 +34,20 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": "*"
+    "node": "6.11.1"
   },
   "bugs": {
     "url": "https://github.com/bauhausjs/html2pdf/issues"
   },
   "homepage": "https://github.com/bauhausjs/html2pdf",
-  "license" : "SEE LICENSE IN LICENSE",
+  "license": "SEE LICENSE IN LICENSE",
   "maintainers": [
     {
       "name": "eterehov",
       "email": "opensource@terehov.de"
-   },
-   {
+    },
+    {
       "name": "dustin-H"
-   }
+    }
   ]
 }
